@@ -1,0 +1,15 @@
+.title-container{
+  display: flex;
+  justify-content: center;
+  color: rgb(19, 29, 61);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.home{
+    background-image: url(../../assets/pexels-gdtography-911738.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
